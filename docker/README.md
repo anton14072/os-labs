@@ -2,4 +2,4 @@
 - ФИО- Ерофеев Илья 
 - Группа - ББСО-02-18
 
-![Image alt](https://github.com/batasov/oslabs/raw/master/docker/screenshot.png)
+![Image alt](https://github.com/FOREST1493/oslabs/raw/master/docker/screenshot.png)
